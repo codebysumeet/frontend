@@ -1,7 +1,5 @@
 # Krishi Clinic Lite
 
-![CI](https://github.com/YOUR_GITHUB_USERNAME/krishi-clinic-lite/actions/workflows/ci.yml/badge.svg)
-
 A crop disease advisory dashboard. A user uploads a photo of a crop, picks the crop type, and optionally adds field notes. An AI provider analyzes the image and returns a disease diagnosis, confidence score, severity, and a treatment recommendation. Every prediction is stored in Postgres, searchable in a history view, and rolled up into an analytics dashboard.
 
 Built for the GramIQ Full Stack Developer Intern technical assignment ("Krishi Clinic Lite").
